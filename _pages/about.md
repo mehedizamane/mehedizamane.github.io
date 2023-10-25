@@ -18,6 +18,6 @@ Hi, my name is S M Mehedi Zaman. I am a recent graduate from Islamic University 
 
 Latest News:
 - Our recent paper on AI generated text detection has just been accepted to EMNLP 2023! (See it [here](https://mehedizamane.github.io/publications/2023_counter_turing))
-- A new preprint of ours regarding LLM hallucinations and and prompt linguistic nuances is out! (Check it out here)
+- A new preprint of ours regarding LLM hallucinations and prompt linguistic nuances is out! (Check it out [here](https://mehedizamane.github.io/publications/2023_llm))
 
 
