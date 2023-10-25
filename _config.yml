@@ -83,14 +83,14 @@ analytics:
 # Site Author
 author:
   name             : "S M Mehedi Zaman"
-  avatar           : "58d7005687456f7f1d8b46b6_da39a3ee5e6b4b0d3255bfef95601890afd80709.jpg"
-  bio              : "Ph.D of SP & ML, NUS"
-  location         : "Singapore"
+  avatar           : "mypic.jpg"
+  bio              : "Hi! I'm a prospective graduate student looking for opportunities in NLP, cyber-security, signal processing and their practical domains"
+  location         : "Bangladesh"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=1n2OPtwAAAAJ"
-  email            : "xyang@u.nus.edu"
-  researchgate     : "https://www.researchgate.net/profile/Xingyi_Yang4"
+  googlescholar    : "https://scholar.google.com/citations?user=8zqmyMMAAAAJ&hl=en&authuser=1"
+  email            : "mehedizaman@iut-dhaka.edu"
+  researchgate     : "https://www.researchgate.net/profile/S-M-Mehedi-Zaman"
   uri              :
   bitbucket        :
   codepen          :
@@ -98,13 +98,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Adamdad"
+  github           : "mehedizamane"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "xingyi-adam-yang-72375b170/"
+  linkedin         : "https://www.linkedin.com/in/mehedizamane/"
   orcid            : 
   pinterest        :
   soundcloud       :
@@ -117,7 +117,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  zhihu            : "https://www.zhihu.com/people/yang-xing-yi-33-54"
+  zhihu            : 
 
 
 # Reading Files
