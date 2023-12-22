@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-![cv](https://github.com/Adamdad/Adamdad.github.io/blob/master/images/Xingyi%20Yang%202019_10_18.jpg)
+![cv](files/S_M_Mehedi_Zaman_Academic_CV_v2.pdf)
