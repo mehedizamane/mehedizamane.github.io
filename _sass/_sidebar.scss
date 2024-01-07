@@ -72,8 +72,8 @@
 .author__avatar {
   display: table-cell;
   vertical-align: top;
-  width: 80px; /* Increase the width */
-  height: 80px; /* Increase the height */
+  width: 120px; /* Increase the width */
+  height: 120px; /* Increase the height */
 
   @include breakpoint($large) {
     display: block;
@@ -83,14 +83,14 @@
 }
 
 
-  img {
-    max-width: 175px;
-    border-radius: 50%;
+  .author__avatar img {
+  max-width: 175px; /* Keep a maximum width */
+  width: 100%; /* Make sure the image fills the container */
+  border-radius: 50%;
 
-    @include breakpoint($large) {
-      padding: 5px;
-      border: 1px solid $border-color;
-    }
+  @include breakpoint($large) {
+    padding: 5px;
+    border: 1px solid $border-color;
   }
 }
 
