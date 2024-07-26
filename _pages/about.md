@@ -14,9 +14,10 @@ redirect_from:
 }
 </style>
 
-Hi, my name is S M Mehedi Zaman. I am a recent graduate from Islamic University of Technology ([IUT](https://www.iutoic-dhaka.edu/)); My major was EEE. Currently, I am collaborating as a **Remote** Research Intern at the AI Institute of University of South Carolina ([AIISC](https://aiisc.ai/)), where we are working on exciting new breakthroughs in NLP domains!
+Hi, my name is Mehedi and I am joining Rutgers University - New Brunswick from Fall 2024! I will be pursuing my PhD in Communication, Information and Media at the School of Communication & Information ([SC&I](https://comminfo.rutgers.edu/)) in Rutgers. Currently, I am collaborating as a **Remote** Research Intern at the AI Institute of University of South Carolina ([AIISC](https://aiisc.ai/)), where we are working on exciting new breakthroughs in NLP domains!
 
 Latest News:
+- I've been offered a fully funded PhD position at the School of Communication & Information at Rutgers University - New Brunswick! Excited to embark into this new journey!
 - Hallucination mitigation using [Pause] tokens paper of ours is out now! (Check it out [here](https://arxiv.org/abs/2403.18976))
 - Our survey paper on Context length extension of Generative AIs is out now! (Check it out [here](https://arxiv.org/abs/2401.07872v1))
 - A preprint of ours related to a survey on Hallucination Mitigation is online now! (Check it out [here](https://arxiv.org/abs/2401.01313))
