@@ -9,8 +9,7 @@
 locale                   : "en-US"
 title                    : "Homepage"
 title_separator          : "|"
-name                     : &name "
-Department of Electrical and Electronic Engineering, IUT"
+name                     : &name "School of Communication and Information, Rutgers University"
 description              : &description "A personal site of S M Mehedi Zaman"
 url                      : https://mehedizamane.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -84,12 +83,12 @@ analytics:
 author:
   name             : "S M Mehedi Zaman"
   avatar           : "mypic.jpg"
-  bio              : "Hi! I'm a prospective graduate student looking for opportunities in Computational Linguistics and Social Computing domains"
+  bio              : "Hi! I'm an incoming PhD student of Communication, Information and Media at Rutgers University - New Brunswick"
   location         : "Bangladesh"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=8zqmyMMAAAAJ&hl=en&authuser=1"
-  email            : "mehedizaman@iut-dhaka.edu"
+  email            : "sm.mehedi.zaman@rutgers.edu"
   researchgate     : "https://www.researchgate.net/profile/S-M-Mehedi-Zaman"
   uri              :
   bitbucket        :
