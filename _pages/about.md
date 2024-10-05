@@ -14,7 +14,7 @@ redirect_from:
 }
 </style>
 
-Hi, my name is Mehedi and I am joining Rutgers University - New Brunswick from Fall 2024! I will be pursuing my PhD in Communication, Information and Media at the School of Communication & Information ([SC&I](https://comminfo.rutgers.edu/)) in Rutgers. Currently, I am collaborating as a **Remote** Research Intern at the AI Institute of University of South Carolina ([AIISC](https://aiisc.ai/)), where we are working on exciting new breakthroughs in NLP domains!
+Hi, my name is Mehedi and I am a first year doctoral student at Rutgers University - New Brunswick! I am pursuing my PhD in Communication, Information and Media at the School of Communication & Information ([SC&I](https://comminfo.rutgers.edu/)). My research interests lie in the intersection of Computational Social Science and Computational Linguistics. In the past, I have collaborated as a **Remote** Research Intern at the AI Institute of University of South Carolina ([AIISC](https://aiisc.ai/)), where we worked on exciting new breakthroughs in NLP domains!
 
 Latest News:
 - I've been offered a fully funded PhD position at the School of Communication & Information at Rutgers University - New Brunswick! Excited to embark into this new journey!
