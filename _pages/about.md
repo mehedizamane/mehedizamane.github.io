@@ -14,9 +14,10 @@ redirect_from:
 }
 </style>
 
-Hi, my name is Mehedi and I am a first year doctoral student at Rutgers University - New Brunswick! I am pursuing my PhD in Communication, Information and Media at the School of Communication & Information ([SC&I](https://comminfo.rutgers.edu/)). My research interests lie in the intersection of Computational Social Science and Computational Linguistics. In the past, I have collaborated as a **Remote** Research Intern at the AI Institute of University of South Carolina ([AIISC](https://aiisc.ai/)), where we worked on exciting new breakthroughs in NLP domains!
+Hi, my name is Mehedi and I am a second year doctoral student at Rutgers University - New Brunswick! I am pursuing my PhD in Communication, Information and Media at the School of Communication & Information ([SC&I](https://comminfo.rutgers.edu/)). My research interests lie in the intersection of Computational Social Science and Computational Linguistics. In the past, I have collaborated as a **Remote** Research Intern at the AI Institute of University of South Carolina ([AIISC](https://aiisc.ai/)), where we worked on exciting new breakthroughs in NLP domains!
 
 Latest News:
+- A new preprint of ours regarding How Undergrads use ChatGPT is out! (Check it out [here](https://arxiv.org/html/2505.24126v1))
 - I've been offered a fully funded PhD position at the School of Communication & Information at Rutgers University - New Brunswick! Excited to embark into this new journey!
 - Hallucination mitigation using [Pause] tokens paper of ours is out now! (Check it out [here](https://arxiv.org/abs/2403.18976))
 - Our survey paper on Context length extension of Generative AIs is out now! (Check it out [here](https://arxiv.org/abs/2401.07872v1))
