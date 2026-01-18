@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-![cv](Zaman_CV_Dec25.pdf)
+![cv](/files/Zaman_CV_Dec25.pdf)
