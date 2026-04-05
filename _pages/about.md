@@ -17,7 +17,7 @@ redirect_from:
 Hi, my name is Mehedi and I am a second year doctoral student at Rutgers University - New Brunswick! I am pursuing my PhD in Information Science at the School of Communication & Information ([SC&I](https://comminfo.rutgers.edu/)). My research interests lie in the intersection of Computational Social Science and Computational Linguistics. I am currently being advised by [Dr. Kiran Garimella](https://gvrkiran.github.io/index.html). In the past, I have collaborated as a Research Intern at the AI Institute of University of South Carolina ([AIISC](https://aiisc.ai/)), where we worked on exciting new breakthroughs in NLP domains!
 
 Latest News:
-- Our poster on Privacy Concerns and ChatGPT has been selected as a finalist for the Best Poster Award at iConference 2026! ([link](https://www.ischools.org/post/iconference-2026-paper-and-poster-awards-finalists-announcement))
+- Our poster on Privacy Concerns and ChatGPT won the Best Poster Award at iConference 2026! ([link](https://www.linkedin.com/posts/ischools-inc_congratulations-to-the-iconference-2026-paper-activity-7441849860364058625-tFLP/))
 - Our poster on Privacy Concerns and ChatGPT has been accepted to iConference 2026! ([poster](https://arxiv.org/abs/2511.18268))
 - Our paper on Polarization on US Cable Debate Shows has been accepted to ICWSM 2026! ([paper](https://arxiv.org/abs/2511.15774)) 
 - Received my first funding (internal school funding of $1000) for a research practicum project! 
