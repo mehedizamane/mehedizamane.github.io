@@ -18,6 +18,7 @@ Hi, my name is Mehedi and I am a third year doctoral student at Rutgers Universi
 
 Latest News:
 - **November 2026:** Gave an invited talk titled "Privacy in Conversation: What People Expect and What ChatGPT Reveals" at the Lazer Lab in Northeastern University! ([slides](/files/Privacy%20in%20Conversation_final.pdf))
+- **October 2026:** A new preprint of Pretraining Disclosure Across Language Model Releases is out! ([preprint](https://arxiv.org/abs/2610.37465))
 - **October 2026:** Presented our working paper, "Privacy Shouldn't be a Privilege" at AoIR'26 in Mexico City!
 - **September 2026:** A new preprint of how health privacy risks can persist in ChatGPT memory is out! ([preprint](https://arxiv.org/abs/2609.14697))
 - **September 2026:** Got awarded the Tefko Saracevic Award from the SC&I Information Science Faculty: USD 2,295!
