@@ -17,6 +17,7 @@ redirect_from:
 Hi, my name is Mehedi and I am a third year doctoral student at Rutgers University - New Brunswick! I am pursuing my PhD in Information Science at the School of Communication & Information ([SC&I](https://comminfo.rutgers.edu/)). My research interests lie in the intersection of Computational Social Science and Computational Linguistics, with growing interests in Privacy in Human-AI Interaction. I am currently being advised by [Dr. Kiran Garimella](https://gvrkiran.github.io/index.html). In the past, I worked as research interns at the Max Planck Institute for Demographic Research ([MPIDR](https://incubator.demogr.mpg.de/Program)) and at the AI Institute of University of South Carolina ([AIISC](https://aiisc.ai/)).
 
 Latest News:
+- **November 2026:** Gave an invited lightning presentation titled "Inferential Privacy Leakage in Anonymized Conversational AI Logs" at the New Jersey Big Data Alliance (NJBDA) Research Collaboration Forum!
 - **November 2026:** Gave an invited talk titled "Privacy in Conversation: What People Expect and What ChatGPT Reveals" at the Lazer Lab in Northeastern University! ([slides](/files/Privacy%20in%20Conversation_final.pdf))
 - **October 2026:** A new preprint of Pretraining Disclosure Across Language Model Releases is out! ([preprint](https://arxiv.org/abs/2610.37465))
 - **October 2026:** Presented our working paper, "Privacy Shouldn't be a Privilege" at AoIR'26 in Mexico City!
